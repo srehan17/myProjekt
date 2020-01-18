@@ -43,7 +43,7 @@ gem 'gravatar_image_tag', '~> 1.2'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'pg'
 gem 'public_activity', '~> 1.5'
-gem 'simple_form', '~> 3.5'
+gem 'simple_form', '~> 5.0'
 gem 'wysiwyg-rails'
 
 group :development, :test do
